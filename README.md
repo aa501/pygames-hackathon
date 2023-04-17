@@ -14,4 +14,11 @@
 <img width="400" alt="Screenshot 2023-04-18 014542" src="https://user-images.githubusercontent.com/80088403/232600351-9552ee4d-ed45-4696-81b6-5c4a71c60496.png">
 <br>
 <h3><a href = "https://www.youtube.com/watch?v=ZdsFNvjRg-M">Youtube Video</a></h3>
+<h3><a href = "https://drive.google.com/file/d/1ACqfj4gW3mLNsVgw6_I2mscm_svPUSg6/view?usp=sharing">Executable File</a></h3>
+<pre>
+1. Download the executable file
+2. Unzip the file
+3. Click on main.exe
+4. Game runs &#128516;
+</pre>
 </div>
