@@ -691,7 +691,7 @@ while run:
         level_rect = level_text.get_rect(center=(width // 2, 70))
         screen.blit(level_text, level_rect)
         level_text = font.render(f"Player: {player_name} || Up: Jump | A: Grenade | <-: Move Left | -> Move Right | Spacebar: Fire", True, (255, 255, 255))
-        level_rect = level_text.get_rect(center=(900, 20))
+        level_rect = level_text.get_rect(center=(900, 30))
         screen.blit(level_text, level_rect)
 
         player.update()
